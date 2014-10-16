@@ -1,0 +1,22 @@
+{
+  "name": "min-window",
+  "version": "0.0.0",
+  "description": "a minimal browser Window interface for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openappjs/min-window.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openappjs/min-window/issues"
+  },
+  "homepage": "https://github.com/openappjs/min-window",
+  "dependencies": {
+    "xtend": "^4.0.0"
+  }
+}
